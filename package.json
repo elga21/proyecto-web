@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-web",
+  "version": "1.0.0",
+  "description": "Proyecto web simple con Node.js y Express",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
